@@ -92,4 +92,28 @@ export const articleData = [
     coverImage: "/images/b3.jpg",
     title: "Introduction to React Hooks",
   },
+  {
+    id: 4,
+    userImage: "/images/u3.jpg",
+    username: "Alex Johnson",
+    reaction: 88,
+    coverImage: "/images/b2.jpg",
+    title: "Introduction to NEXTJS",
+  },
+  {
+    id: 5,
+    userImage: "/images/u3.jpg",
+    username: "John Doe",
+    reaction: 88,
+    coverImage: "/images/b1.jpg",
+    title: "Tailwind CSS",
+  },
+  {
+    id: 6,
+    userImage: "/images/u1.jpg",
+    username: "Alex Johnson",
+    reaction: 88,
+    coverImage: "/images/b1.jpg",
+    title: "Data Science",
+  },
 ];
